@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Vikram Chauhan</h1>
 <h3 align="center">A passionate Frontend developer and QA</h3>
 <h3 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h3>
-<a href="https://drive.google.com/file/d/1tmMFRnqqqdGCPH_cKNiim2iJKF_gAsKU/view?usp=sharing](https://drive.google.com/file/d/183j1gHCO47nI0KaGtiwe0mBFLy3EyFIT/view?usp=drivesdk">Resume</a>
-<a href="https://kunalpratapportfolio.netlify.app/">Portfolio</a>
+<a href="https://drive.google.com/file/d/1Vtmh54QkrMkYLULsg-33KnHd_BmYzplp/view?usp=drivesdk">Resume</a>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpratapsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpratapsinghh" /> </p>
@@ -20,7 +19,7 @@
 
 - 📫 How to reach me **rahuldazzer098@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1tmMFRnqqqdGCPH_cKNiim2iJKF_gAsKU/view?usp=sharing](https://drive.google.com/file/d/183j1gHCO47nI0KaGtiwe0mBFLy3EyFIT/view?usp=drivesdk))
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Vtmh54QkrMkYLULsg-33KnHd_BmYzplp/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am not Funny**
 
